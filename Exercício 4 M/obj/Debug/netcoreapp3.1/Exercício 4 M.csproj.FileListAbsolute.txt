@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.exe
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.deps.json
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.runtimeconfig.json
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.dll
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\bin\Debug\netcoreapp3.1\Exercício 4 M.pdb
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.dll
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.pdb
+C:\Users\rubem\source\repos\Exercício 4 M\Exercício 4 M\obj\Debug\netcoreapp3.1\Exercício 4 M.genruntimeconfig.cache
